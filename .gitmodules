@@ -1,0 +1,9 @@
+[submodule "DiligentCore"]
+	path = DiligentCore
+	url = git@github.com:epicodic/DiligentCore.git
+[submodule "DiligentTools"]
+	path = DiligentTools
+	url = git@github.com:epicodic/DiligentTools.git
+[submodule "DiligentFX"]
+	path = DiligentFX
+	url = git@github.com:epicodic/DiligentFX.git
